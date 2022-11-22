@@ -1,6 +1,6 @@
 # win32.com
 
-win32.com é uma biblioteca/extensão que permite acesso à API do Windows.
+win32.com é uma biblioteca/extensão que permite acesso a recursos de aplicativos do Windows.
 Ela é usada principalmente para automatizar processos, permitindo a manipulação de outros programas.
 
 Possui 2 variações, lado Cliente e lado Servidor.
